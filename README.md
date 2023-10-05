@@ -1,7 +1,5 @@
-# Collab-Test-1
+**_Collab-Test-1_**
 
-**Collab-Test-2**
+~~Collab-Test-2~~
 
-**_Collab-Test-3_**
-
-~~Collab-Test-4~~
+~~Collab-Test-3~~
