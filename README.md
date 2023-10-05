@@ -2,7 +2,11 @@
 
 ## Collab-Test-2
 
-** Collab-Test-3 **
+**_Collab-Test-3_**
 
+<<<<<<< HEAD
+~~Collab-Test-4~~
+=======
 ~~ Collab-Test-4 ~~
 
+>>>>>>> 3d4919555e77667b326043c7daad5a37e2bd1312
